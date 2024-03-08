@@ -5,11 +5,14 @@ void print(string msg){
     cout << msg << endl;
 }
 
+int suma(int a, int b){
+    return a+b;
+}
 
 int main (){
     print("5556");
     print("4444");
 
-    int num=5;
+    int num=suma(5);
     cout << num << endl;
 }
