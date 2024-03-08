@@ -8,8 +8,7 @@ void print(string msg){
 
 int main (){
     print("5556");
-    cout << "56" << endl;
-    cout << "ejercicio 1"<< endl;
+    print("4444");
 
     int num=5;
     cout << num << endl;
